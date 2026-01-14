@@ -1,0 +1,24 @@
+From 4485614b45c7789d182f9ee2dce5136635d10ebc Mon Sep 17 00:00:00 2001
+From: RoguedBear <10834244-RoguedBear@users.noreply.gitlab.com>
+Date: Sat, 21 Jun 2025 21:41:22 +0530
+Subject: [PATCH] remove the `q` parameter
+
+---
+ data.min.json | 1 -
+ 1 file changed, 1 deletion(-)
+
+diff --git a/data.min.json b/data.min.json
+index 39fee31..31242d8 100644
+--- a/data.min.json
++++ b/data.min.json
+@@ -2327,7 +2327,6 @@
+                 "sattr\\[\\]",
+                 "p\\[\\]",
+                 "st",
+-                "q",
+                 "qH",
+                 "hpid",
+                 "ctx",
+-- 
+GitLab
+
